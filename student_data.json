@@ -1,0 +1,54 @@
+{
+
+    
+"student": [
+
+    {
+
+        "name":"ahsanul huq",
+        "midleName" : "none",
+        "age" : 21,
+        "isRelations": true,
+        "language" :[
+    
+            "bangluli",
+            "english",
+            "hindi"
+        ],
+        "friend":[
+            {
+    
+            "name" : "ahsanul huq",
+            "age":21,
+            "class": "bba"
+        },
+        {
+
+            "name":"shibu",
+            "age":22
+        }
+    ]
+    },
+    {
+
+        "name":"ahsanul huq",
+        "age":21,
+        "friend":true,
+        "language":[
+            "bangluli",
+            "english",
+            "hindi"
+        ],
+        "midleName": null,
+        "country":[
+
+            {
+
+                "firstName":"Bangladesh",
+                "second" : "india",
+                "thirdName":"nepal"
+            }
+        ]
+    }
+]
+}
